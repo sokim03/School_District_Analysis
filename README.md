@@ -69,5 +69,5 @@ The purpose of this analysis was to help the School District Board uphold state 
 ![SchoolType-reanalysis](https://user-images.githubusercontent.com/96352427/151698826-1412fe63-f8a5-41db-90a2-58db1a544d14.PNG)
 
 ## Summary: 
-The main changes that are observed from the original data set to the reanalyzed data set was the number of ninth grade students excluded, the total number of 10th to 12th grade students for Thomas High School that were included in the data, the average scores for math and reading, and the overall passing percentages. Even with the exclusion of Thomas High School's ninth graders, there was not much differences between both data sets. The School Board will not need to make much changes when planning for future state testing standars. 
+The main changes that are observed from the original data set to the reanalyzed data set was the number of ninth grade students excluded, the total number of 10th to 12th grade students for Thomas High School that were included in the data, the average scores for math and reading, and the overall passing percentages. Even with the exclusion of Thomas High School's ninth graders, there was not much differences between both data sets. The School Board will not need to make much changes when planning for future state testing standards. 
 
